@@ -1,5 +1,5 @@
 name: alloy-gael
-version: "v1.12.0"
+version: "v1.12.1"
 base: core24
 summary: Grafana Alloy open source OpenTelemetry Collector distribution
 description: |
@@ -28,7 +28,7 @@ parts:
 
   alloy:
     plugin: dump
-    source: https://github.com/grafana/alloy/releases/download/v1.12.0/alloy-1.12.0-1.amd64.deb
+    source: https://github.com/grafana/alloy/releases/download/v1.12.1/alloy-1.12.1-1.amd64.deb
     source-type: deb
 
     prime:
