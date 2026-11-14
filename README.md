@@ -14,6 +14,9 @@ Grafana Alloy is an open source OpenTelemetry Collector distribution with built-
 
 Read the doc at https://grafana.com/docs/alloy/latest/ on how to get started.
 
+**2026-11-14**
+* v1.22.0 available on amd64
+
 **2026-10-31**
 * v1.21.3 available on amd64
 
